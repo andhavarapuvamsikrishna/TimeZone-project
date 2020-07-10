@@ -1,0 +1,49 @@
+.whole
+{
+    display:flex;
+    background-color: black;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    flex-direction:column;
+    
+}
+.hh
+{
+    width:100%;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    background-color : green;
+    margin-bottom: 20px;
+    
+    
+}
+.mm
+{
+    display:flex;
+    background-color: black;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+body
+{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+#selectbox
+{
+    width:430px;
+    height:30px;
+    text-align: center;
+}
+#but
+{
+    width:430px
+}
